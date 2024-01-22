@@ -1,0 +1,29 @@
+{
+  "name": "lab01_101331074_comp3133",
+  "version": "1.0.0",
+  "description": "COMP3133 Lab1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toubielawbar/Lab01_101331074_COMP3133.git"
+  },
+  "keywords": [
+    "nodejs",
+    "MEAN",
+    "angular",
+    "js",
+    "comp3133"
+  ],
+  "author": "Oluwatobi H. Giwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toubielawbar/Lab01_101331074_COMP3133/issues"
+  },
+  "homepage": "https://github.com/toubielawbar/Lab01_101331074_COMP3133#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
